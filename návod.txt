@@ -1,0 +1,16 @@
+Office < 2016
+
+1. Z ceníku exportovat ceny do csv - export se nazývá "export cen ESHOP CZ".
+2. Soubor s cenami uložit do adresáøe "\Pricehero\soubory\" pod názvem "abra.csv".
+3. Do stejného adresáøe nakopírovat soubor "heureka.csv".
+4. Spustit pricehero.exe
+5. V Excelu naimportovat jako data z textu. Oddìlovaè je støedník.
+
+Import do Excel 365
+
+1. Pustit Excel -> Soubor -> Možnosti -> Data -> zaškrtnout "Z textu (starší verze)
+2. Nový list -> Data -> Naèíst data -> vybrat Starší verze prùvodcù
+
+
+Poznámka: adresáø "soubory" nemazat, jinak to nebude fungovat. Soubory v nìm však 
+mazat mùžete libovolnì. Pokud ho smažete omylem, staèí jej znovu vytvoøit.
